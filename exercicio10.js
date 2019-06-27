@@ -1,0 +1,1 @@
+console.log("Exercício implementado na pasta 'Exercício 10'");
