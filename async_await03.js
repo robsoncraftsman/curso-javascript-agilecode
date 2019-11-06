@@ -22,9 +22,9 @@ function sumComPromise(a, b) {
         }
 
         const [a, b] = results;
-        console.log(a); //undefined
-        console.log(b); //undefined
-        const result = await sumComPromise(a, b); // Invalid values
+        console.log(a); //6
+        console.log(b); //4
+        const result = await sumComPromise(a, b); // 10
         console.log(result);
     } catch (e) {
         console.log(e);
