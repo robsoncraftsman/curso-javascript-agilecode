@@ -1,7 +1,5 @@
-Javascript Masterclass
+# Exercícios do Curso: Javascript Masterclass
 
-Exemplos do curso JavaScript MasterClass Online - AgileCode (Rodrigo Branas)
+Instrutor: Rodrigo Branas
 
-Finalizado em 26/06/2019
-
-Adicionado ao GitHub em 01/07/2019
+Link para o curso: https://app.agilecode.com.br/#!/public/products/c09d58ff-ce6b-491b-b158-9982583dff79
